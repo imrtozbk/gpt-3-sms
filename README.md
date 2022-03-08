@@ -1,2 +1,3 @@
-#  gpt3-jabebot
+#  gpt3-smsbotu
  chatbot app
+powered by imrt
